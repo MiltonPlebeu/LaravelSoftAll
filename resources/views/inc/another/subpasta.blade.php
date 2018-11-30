@@ -1,0 +1,1 @@
+<h1>Esta é uma subpasta /views/inc/another/subpasta.blade.php </h1>
